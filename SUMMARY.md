@@ -12,4 +12,5 @@
 ## Chapter-02
 
 * [2.1](chapter-02/2.1.md)
+* [2.2](chapter-02/2.2.md)
 
