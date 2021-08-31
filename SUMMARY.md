@@ -5,10 +5,7 @@
 ## chapter-01
 
 * [1.1](chapter-01/1.1.md)
-
----
-
-* [1.2](1.2.md)
+* [1.2](chapter-01/1.2.md)
 
 ## Chapter-02
 
